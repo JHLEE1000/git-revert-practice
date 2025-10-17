@@ -1,0 +1,3 @@
+This is a new feature #1
+
+This is a 2nd feature #2
